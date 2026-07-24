@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**hibablj/hibablj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Hiba 👋
 
-Here are some ideas to get you started:
+Math + CS student at Alma College, building at the intersection of AI and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently interning as a **Solutions Engineer Intern at Hewlett Packard Enterprise**, working on virtualization and cloud systems
+- **AI/ML Fellow at Cornell Tech** (via Break Through Tech) — selected from ~4,000 applicants
+- Currently building a **chatbot for machine learning research papers**, exploring how RAG-based tools can help researchers navigate and query ML literature
+- Past work spans AI research (stock price prediction models) and (RAG-based security chatbot)
+
+#### 📫 Reach me
+[LinkedIn](https://linkedin.com/in/belhajhiba) · belhaj1h@alma.edu
+
+#### 🛠️ Tech I work with
+`Python` `SQL` `JavaScript` `Sckit-learn` `Docker` `PyTorch` `RAG/LLM pipelines` 
