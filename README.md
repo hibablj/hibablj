@@ -1,7 +1,7 @@
 
 ### Hi, I'm Hiba 👋
 
-Math + CS student at Alma College, building at the intersection of AI and cybersecurity.
+Math + CS student at Alma College.
 
 - Currently interning as a **Solutions Engineer Intern at Hewlett Packard Enterprise**, working on virtualization and cloud systems
 - **AI/ML Fellow at Cornell Tech** (via Break Through Tech) — selected from ~4,000 applicants
