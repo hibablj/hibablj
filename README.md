@@ -1,8 +1,8 @@
 ### Hi, I'm Hiba Belhaj 👋
 
-**Aspiring Machine Learning Engineer** | Math + Computer Science @ Alma College (Class of 2027)
+**Math + Computer Science @ Alma College (Class of 2027)** | AI/ML · Data Science · Solutions Engineering · Software Engineering
 
-I build end-to-end machine learning systems, from data cleaning and feature engineering to model evaluation and RAG-powered applications. My goal is to work as an ML engineer building reliable, data-driven AI products.
+I build end-to-end machine learning systems, from data cleaning and feature engineering to model evaluation and RAG-powered applications. I am open to roles in machine learning, data science, solutions engineering, software engineering, and fintech, anywhere I can turn data and AI into real products.
 
 #### 🎓 Break Through Tech AI Program
 - **AI/ML Fellow at Cornell Tech** (via Break Through Tech), selected from ~4,000 applicants
